@@ -9,4 +9,5 @@ This repository contains the teaching materials for the initial training for und
 * Tim Rudner
 * Patrick Rebeschini
 * Jakob Foerster
+
 and organised by Yee Whye Teh. It was generously supported by the University of Oxford and DeepMind.
