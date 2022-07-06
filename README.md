@@ -11,3 +11,5 @@ This repository contains the teaching materials for the initial training for und
 * Jakob Foerster
 
 and organised by Yee Whye Teh. It was generously supported by the University of Oxford and DeepMind.
+
+Google doc with details of the training: [Doc](https://docs.google.com/document/d/1MnaIiSvpKZx9C1ZDBtvZr9d-ShKWlN45T9IcNe-8RSU).
